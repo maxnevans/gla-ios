@@ -1,0 +1,87 @@
+
+/* Class = "UIBarButtonItem"; title = "Settings"; ObjectID = "45z-gT-2PM"; */
+"45z-gT-2PM.title" = "Настройки";
+
+/* Class = "UILabel"; text = "Cost"; ObjectID = "5be-an-SmU"; */
+"5be-an-SmU.text" = "Цена";
+
+/* Class = "UILabel"; text = "Players: 6+ million"; ObjectID = "CAN-dM-M2T"; */
+"CAN-dM-M2T.text" = "Игроки: 6+ million";
+
+/* Class = "UILabel"; text = "Count Players:"; ObjectID = "CVx-F5-Rcr"; */
+"CVx-F5-Rcr.text" = "Количество игроков:";
+
+/* Class = "UILabel"; text = "Font"; ObjectID = "Dvr-a8-bRb"; */
+"Dvr-a8-bRb.text" = "Шрифт";
+
+/* Class = "UILabel"; text = "playersCount"; ObjectID = "EGB-bO-epV"; */
+"EGB-bO-epV.text" = "playersCount";
+
+/* Class = "UIButton"; normalTitle = "Apply Settings"; ObjectID = "EMa-b4-kVF"; */
+"EMa-b4-kVF.normalTitle" = "Применить настройки";
+
+/* Class = "UINavigationItem"; title = "Filter Game List"; ObjectID = "GFG-eq-Fdg"; */
+"GFG-eq-Fdg.title" = "Фильтры списка игр";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "LAr-3C-7eF"; */
+"LAr-3C-7eF.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "rating"; ObjectID = "M9T-71-FcH"; */
+"M9T-71-FcH.text" = "rating";
+
+/* Class = "UILabel"; text = "cost"; ObjectID = "QOu-UA-a7C"; */
+"QOu-UA-a7C.text" = "cost";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "Rfw-D4-9dO"; */
+"Rfw-D4-9dO.title" = "Настройки";
+
+/* Class = "UINavigationItem"; title = "Game List"; ObjectID = "TkA-Q6-ymp"; */
+"TkA-Q6-ymp.title" = "Список игр";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "UFo-aP-YwO"; */
+"UFo-aP-YwO.text" = "Язык";
+
+/* Class = "UIButton"; normalTitle = "Watch trailer"; ObjectID = "Wb1-Wa-8dm"; */
+"Wb1-Wa-8dm.normalTitle" = "Смотреть трейлер";
+
+/* Class = "UILabel"; text = "Dota 2"; ObjectID = "XCV-pd-hRV"; */
+"XCV-pd-hRV.text" = "Dota 2";
+
+/* Class = "UILabel"; text = "Rating: "; ObjectID = "Xhr-yM-3bL"; */
+"Xhr-yM-3bL.text" = "Рейтинг: ";
+
+/* Class = "UILabel"; text = "Font size"; ObjectID = "gb3-LD-OEf"; */
+"gb3-LD-OEf.text" = "Размер шрифта";
+
+/* Class = "UILabel"; text = "Players count"; ObjectID = "hjh-F3-M6K"; */
+"hjh-F3-M6K.text" = "Количество игроков";
+
+/* Class = "UILabel"; text = "Rating"; ObjectID = "jw1-tw-kmq"; */
+"jw1-tw-kmq.text" = "Рейтинг";
+
+/* Class = "UIButton"; normalTitle = "Apply Filters"; ObjectID = "kNP-dt-SIA"; */
+"kNP-dt-SIA.normalTitle" = "Применить фильтр";
+
+/* Class = "UILabel"; text = "countPlayers"; ObjectID = "kai-CS-4fv"; */
+"kai-CS-4fv.text" = "countPlayers";
+
+/* Class = "UILabel"; text = "cost"; ObjectID = "lkS-HL-PHk"; */
+"lkS-HL-PHk.text" = "cost";
+
+/* Class = "UILabel"; text = "Rating: 4.3 of 5"; ObjectID = "nHf-dK-KeW"; */
+"nHf-dK-KeW.text" = "Рейтинг: 4.3 of 5";
+
+/* Class = "UILabel"; text = "rating"; ObjectID = "rrN-iG-LlZ"; */
+"rrN-iG-LlZ.text" = "rating";
+
+/* Class = "UILabel"; text = "Dota 2"; ObjectID = "s2Z-54-8oL"; */
+"s2Z-54-8oL.text" = "Dota 2";
+
+/* Class = "UILabel"; text = "Info:"; ObjectID = "ufE-Ns-LCq"; */
+"ufE-Ns-LCq.text" = "Информация:";
+
+/* Class = "UILabel"; text = "Cost:"; ObjectID = "zdm-Cd-3Al"; */
+"zdm-Cd-3Al.text" = "Цена:";
+
+/* Class = "UILabel"; text = "Cost: free to play"; ObjectID = "zeT-aO-zDf"; */
+"zeT-aO-zDf.text" = "Цена: free to play";
